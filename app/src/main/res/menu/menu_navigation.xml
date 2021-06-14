@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pump"
+        android:title="Pump"
+        android:icon="@drawable/ic_pump"/>
+
+    <item
+        android:id="@+id/led"
+        android:title="Lamp"
+        android:icon="@drawable/ic_bulb"/>
+
+    <item
+        android:id="@+id/rain"
+        android:title="Clothesline"
+        android:icon="@drawable/ic_jemuran"/>
+</menu>

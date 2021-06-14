@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1006922989250",
+    "firebase_url": "https://smart-home-7af90-default-rtdb.firebaseio.com",
+    "project_id": "smart-home-7af90",
+    "storage_bucket": "smart-home-7af90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006922989250:android:f1633635880e754fcc455b",
+        "android_client_info": {
+          "package_name": "com.billycs.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006922989250-m1dst9fio3h3f4bk5th2ohq268lh40uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.billycs.smarthome",
+            "certificate_hash": "0b7d661c31a15a90bbe79e974131b91b79f0bc70"
+          }
+        },
+        {
+          "client_id": "1006922989250-maup9un1vdpllp085t6sj6g89d8heanm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxjaT1G4r-e9v9erj0stp_0dc3r7_Mplg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006922989250-maup9un1vdpllp085t6sj6g89d8heanm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
